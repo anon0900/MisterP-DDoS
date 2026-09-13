@@ -1,4 +1,3 @@
-# MisterP-DDoS
 ## Disclaimer
 
 MisterP is intended solely for educational purposes and authorized
